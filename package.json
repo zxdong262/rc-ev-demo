@@ -1,0 +1,25 @@
+{
+  "name": "rc-ev-demo",
+  "version": "1.0.0",
+  "description": "RingCentral Engage Voice demo app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -r dotenv/config index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zxdong262/rc-ev-demo.git"
+  },
+  "author": "Drake Zhao <dake.zhao@ringcentral.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zxdong262/rc-ev-demo/issues"
+  },
+  "homepage": "https://github.com/zxdong262/rc-ev-demo#readme",
+  "dependencies": {
+    "engagevoice-sdk-wrapper": "^0.5.9"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
