@@ -1,6 +1,6 @@
 # rc-ev-demo
 
-RingCentral Engage Voice demo app
+RingCentral Engage Voice demo app with engagevoice-sdk-wrapper.
 
 ## Run
 
